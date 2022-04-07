@@ -1,0 +1,36 @@
+.reset_btn,
+.signup_btn,
+.home_btn
+ {
+	background-color: #3bb19b;
+	color: white;
+	
+}
+.reset_btn{
+    margin-left:250px;
+    margin-top:10px;
+    font-size: 20px;;
+}
+.home_btn{
+    margin-left:330px;
+    margin-top:10px;
+    font-size: 20px;;
+}
+
+input{
+    width:400px;
+    display: block;
+     margin-left: 200px ;
+     font-size: 20px;;
+}
+
+.inputtext{
+    text-align: center;
+}
+.header{
+    margin-left:250px;
+}
+.para{
+    margin-left:150px;
+}
+
